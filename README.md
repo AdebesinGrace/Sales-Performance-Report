@@ -47,10 +47,4 @@ Through careful analysis, the project unveiled compelling insights into sales pe
 
 - It appears that the Technology category has a significant impact on overall sales averages. This insight suggests that technology-related products are driving a considerable portion of the company's sales and it's crucial to incorporate the Technology category into marketing strategies effectively.  if the Technology category has a particularly strong influence on sales in the West region, then focusing marketing efforts on promoting tech products in that area could yield significant returns. This will lead to Overall Sales growth.
 
-
-
-
-
-
-
-
+ _## **Link to the Visual**_ : [click here](https://abiliqees-my.sharepoint.com/:u:/g/personal/grace_abiliqees_onmicrosoft_com/EXym0nDLJhlIjQuDhh3pBvcBQlLxStCJLkAW2WzJz6inWg?e=ZSNbQR)
